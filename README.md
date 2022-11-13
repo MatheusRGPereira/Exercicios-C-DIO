@@ -1,5 +1,4 @@
 # Exercicios com C# feitos através do bootcamp Geração tech Unimed DIO 📖🟢
-Introdução as formatos de segurança e comando para versionamento de codigo git
 
  #### 1 🚀- File-and Streams
  
