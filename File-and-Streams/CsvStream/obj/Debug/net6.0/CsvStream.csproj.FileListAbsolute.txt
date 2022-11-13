@@ -1,0 +1,15 @@
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\bin\Debug\net6.0\CsvStream.exe
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\bin\Debug\net6.0\CsvStream.deps.json
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\bin\Debug\net6.0\CsvStream.runtimeconfig.json
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\bin\Debug\net6.0\CsvStream.dll
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\bin\Debug\net6.0\CsvStream.pdb
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\CsvStream.csproj.AssemblyReference.cache
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\CsvStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\CsvStream.AssemblyInfoInputs.cache
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\CsvStream.AssemblyInfo.cs
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\CsvStream.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\CsvStream.dll
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\refint\CsvStream.dll
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\CsvStream.pdb
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\CsvStream.genruntimeconfig.cache
+C:\Users\I\Desktop\Arquivos-Streams\CsvStream\obj\Debug\net6.0\ref\CsvStream.dll

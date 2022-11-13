@@ -1,0 +1,17 @@
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.exe
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.deps.json
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.runtimeconfig.json
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.dll
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.AssemblyReference.cache
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfoInputs.cache
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfo.cs
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CopyComplete
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.dll
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\refint\ProjetoCsvHelper.dll
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.genruntimeconfig.cache
+C:\Users\I\Desktop\Arquivos-Streams\ProjetoCsvHelper\obj\Debug\net6.0\ref\ProjetoCsvHelper.dll

@@ -1,0 +1,3 @@
+Está é a minha linha 1 do arquivo
+Está é a minha linha 2 do arquivo
+Está é a minha linha 3 do arquivo

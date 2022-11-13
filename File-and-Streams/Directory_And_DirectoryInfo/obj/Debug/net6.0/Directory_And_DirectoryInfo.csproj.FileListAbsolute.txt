@@ -1,0 +1,15 @@
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.exe
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.deps.json
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.runtimeconfig.json
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfo.cs
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\refint\Directory_And_DirectoryInfo.dll
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.genruntimeconfig.cache
+C:\Users\I\Desktop\Arquivos-Streams\Directory_And_DirectoryInfo\obj\Debug\net6.0\ref\Directory_And_DirectoryInfo.dll
